@@ -20,7 +20,7 @@
 ## 🚀 Descargas rápidas
 
 ### Para Windows (sin instalar Python)
-⬇️ **[Descargar OrganizadorArchivos.exe](dist/OrganizadorArchivos.exe)** - Solo descarga y ejecuta
+⬇️ **[Descargar OrganizadorArchivos.exe](realise/OrganizadorArchivos.exe)** - Solo descarga y ejecuta
 
 ### Para Linux / macOS / Windows (con Python)
 ```bash
