@@ -24,7 +24,7 @@
 
 | Versión | Enlace | Tamaño |
 |---------|--------|--------|
-| **Última versión** | [⬇️ Descargar OrganizadorArchivos.exe](https://github.com/lolcragamer/organizador-archivos/releases/download/v1.0/OrganizadorArchivos.exe) | ~45MB |
+| **Última versión** | [⬇️ Descargar OrganizadorArchivos.exe](}https://github.com/lolcragamer/Organizador-Inteligente-de-Archivos-por-Etiquetas/releases/tag/v1.0.0) | ~45MB |
 
 > ⚠️ **Nota:** Si el antivirus lo bloquea, es un falso positivo. [Ver explicación](#-seguridad)
 
