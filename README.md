@@ -12,7 +12,7 @@
 **Organiza tus archivos con etiquetas jerárquicas automáticamente**
 
 [📥 DESCARGAR AHORA](#-descargas) • 
-[🐛 REPORTAR ERROR](https://github.com/lolcragamer/organizador-archivos/issues)
+[🐛 REPORTAR ERROR](https://github.com/lolcragamer/Organizador-Inteligente-de-Archivos-por-Etiquetas/issues)
 
 </div>
 
