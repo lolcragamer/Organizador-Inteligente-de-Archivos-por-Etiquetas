@@ -9,22 +9,34 @@
 [![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux)](https://linux.org)
 [![macOS](https://img.shields.io/badge/macOS-000000?logo=apple)](https://apple.com)
 
-**Organiza tus archivos con etiquetas jerárquicas de forma automática**
+**Organiza tus archivos con etiquetas jerárquicas automáticamente**
 
-[📥 Descargar EXE (Windows)](dist/OrganizadorArchivos.exe) • 
-[🐍 Ver código fuente](src/) • 
-[📖 Documentación](#-instalación)
+[📥 DESCARGAR AHORA](#-descargas) • 
+[🐛 REPORTAR ERROR](https://github.com/lolcragamer/organizador-archivos/issues)
 
 </div>
 
-## 🚀 Descargas rápidas
+---
 
-### Para Windows (sin instalar Python)
-⬇️ **[Descargar OrganizadorArchivos.exe](realise/OrganizadorArchivos.exe)** - Solo descarga y ejecuta
+## 📥 Descargas
 
-### Para Linux / macOS / Windows (con Python)
+### 🪟 Windows (Ejecutable - No necesita Python)
+
+| Versión | Enlace | Tamaño |
+|---------|--------|--------|
+| **Última versión** | [⬇️ Descargar OrganizadorArchivos.exe](https://github.com/lolcragamer/organizador-archivos/releases/download/v1.0/OrganizadorArchivos.exe) | ~45MB |
+
+> ⚠️ **Nota:** Si el antivirus lo bloquea, es un falso positivo. [Ver explicación](#-seguridad)
+
+### 🐧 Linux / 🍎 macOS / 🪟 Windows (Código fuente)
+
 ```bash
-git clone https://github.com/lolcragamer/Organizador-Inteligente-de-Archivos-por-Etiquetas.git
+# 1. Clonar repositorio
+git clone https://github.com/lolcragamer/organizador-archivos.git
 cd organizador-archivos
+
+# 2. Instalar dependencias
 pip install -r requirements.txt
-python src/organizador_pyside.py
+
+# 3. Ejecutar
+python organizador_pyside.py
