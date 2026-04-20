@@ -24,7 +24,7 @@
 
 ### Para Linux / macOS / Windows (con Python)
 ```bash
-git clone https://github.com/TU-USUARIO/organizador-archivos.git
+git clone https://github.com/lolcragamer/organizador-archivos.git
 cd organizador-archivos
 pip install -r requirements.txt
 python src/organizador_pyside.py
