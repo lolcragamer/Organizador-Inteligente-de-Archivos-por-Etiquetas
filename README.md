@@ -26,7 +26,7 @@
 |---------|--------|--------|
 | **Última versión** | [⬇️ Descargar OrganizadorArchivos.exe](https://github.com/lolcragamer/Organizador-Inteligente-de-Archivos-por-Etiquetas/releases/download/v1.0.0/OrganizadorArchivos.exe) | ~45MB |
 
-> ⚠️ **Nota:** Si el antivirus lo bloquea, es un falso positivo. Es de codigo abierto asi que [Puedes Revisarlo](#-seguridad)
+> ⚠️ **Nota:** Si el antivirus lo bloquea, es un falso positivo. Es de codigo abierto asi que [Puedes Revisarlo](https://github.com/lolcragamer/Organizador-Inteligente-de-Archivos-por-Etiquetas/blob/main/organizador_pyside.py)
 
 ### 🐧 Linux / 🍎 macOS / 🪟 Windows (Código fuente)
 
